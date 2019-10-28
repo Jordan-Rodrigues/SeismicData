@@ -1,4 +1,4 @@
-# SeismicData
+# SeismicData: HackGT 2019 Winning Project
 ## Inspiration
 The US government gathers seismic data globally and must be capable of efficiently parsing the data and quickly deriving insights. Currently, individuals are hired to continuously watch the data throughout the day. With modern technology, this is not necessary and likely does not result in ideal, consistent performance. Our solution automates an anomaly detection solution that extracts up and down-shifts within the frequency domain of seismic data. 
 
